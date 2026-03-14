@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblib
+import pickle
 
 st.set_page_config(page_title="Waze Churn Prediction", page_icon="🚗", layout="centered")
 
